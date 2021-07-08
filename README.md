@@ -1,3 +1,6 @@
+# FORKED FROM fravoll/solidity-patterns
+# working to update these patterns to solidity >= 0.4.25 < 0.7.0
+
 # Solidity Patterns
 
 This repository contains a collection of design and programming patterns for the smart contract programming language Solidity in version 0.4.20. Note that newer versions might have changed some of the functionalities.
